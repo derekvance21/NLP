@@ -1,3 +1,5 @@
+__author__ = "Derek Vance"
+
 import conll
 import dparser
 import transition

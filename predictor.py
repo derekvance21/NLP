@@ -1,3 +1,5 @@
+__author__ = "Derek Vance"
+
 import transition
 
 
